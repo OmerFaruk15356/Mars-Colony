@@ -1,13 +1,15 @@
-# Mars-Colony
-It is a game that have isometric style. This project is actively being developed. It is a work in progress, and new features and improvements are regularly added.
+# Mars Colony
 
-# Current Status
+An isometric colony-building game set on Mars, built in Unity. You place buildings on a tile grid, run mines to gather ore, manage power from solar panels, and trade through a shop, with an inventory tracking what you collect.
 
-The project is not yet finalized, and ongoing work includes:
-- Feature asset,UI,codding,and  development
-- Bug fixes
-- Optimization efforts
-  
-I am working on gameplay, code, interface, and assets in the game. Currently, the fundamental game dynamics have been established, and work is ongoing.
-Feel free to explore the code and contribute. If you encounter any issues or have suggestions, please open an issue or submit a pull request.
+The project is unfinished and was last worked on in March 2025.
 
+## Opening the project
+
+Open the project folder in Unity 2021.3.16f1 and load `Assets/Scenes/SampleScene.unity`.
+
+## Controls
+
+- Left click — interact with objects and place buildings
+- Right mouse button, held — drag to pan the camera
+- Mouse wheel — zoom in and out
